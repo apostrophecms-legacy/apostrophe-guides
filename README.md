@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # Apostrophe Guides
 
 > Build guides to document your Apostrophe site.
